@@ -1,4 +1,4 @@
--- Some courses first
+-- Some courses first and first difference
 
 INSERT INTO course(	code, trans) VALUES ('MH002', 'B.Ed: Bachelor of Education (Gaeltacht) (MH002)');
 
